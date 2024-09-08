@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
-from imgcode.imgcode import file_to_image, image_to_file
+from imgcode import file_to_image, image_to_file
 
 class ImgCodeApp(tk.Tk):
     def __init__(self):
