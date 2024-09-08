@@ -4,7 +4,7 @@
 
 ## Features
 
-- Encode any type of file (e.g., text, binary, images) into an image.
+- Encode any type of file (e.g., text, binary, images, pdf) into an image.
 - Decode a file from an image.
 - Simple and easy-to-use API.
 
